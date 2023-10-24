@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
 - 🌱 I’m currently focusing on Java/Spring Boot and AWS Cloud
-- :fist_right::fist_left: People I collaborated with: [Penn](https://www.linkedin.com/in/penn-diba-b228931b9/) 
 - 💬 Let's talk about cooking and Legos :spaghetti::bricks:
 - :necktie: Let's connect on [LinkedIn](https://www.linkedin.com/in/marlon-braga/)
 - :zap: Fun facts:<br/> 
