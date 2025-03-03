@@ -26,9 +26,14 @@
 	<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" title="Terminal" /></code>
 
 </div>
-<br />
+<br />https://marlonbrg.medium.com/how-to-automate-aws-iam-user-migration-and-manage-iam-resources-e97270b31d2e
 
-### Blog posts :newspaper:
+### AWS Portfolio :open_file_folder:
+---
+- [Automated User Migration & AWS IAM Management: Scalable Access Control](https://marlonbrg.medium.com/how-to-automate-aws-iam-user-migration-and-manage-iam-resources-e97270b31d2e)
+- [AWS IAM Best Practices: Creating User Groups, Assigning Policies, and Enforcing MFA Security](https://marlonbrg.medium.com/aws-iam-best-practices-creating-user-groups-assigning-policies-and-enforcing-mfa-security-2005253cf068)
+  
+### Other Blog Posts :newspaper:
 ---
 - [Algorithm Practice: Ransom Note walkthrough](https://medium.com/@rdg.brg/algorithm-practice-ransom-note-walkthrough-b89cfcb25324)
 - [Algorithm Practice: Reverse Word walkthrough](https://medium.com/@rdg.brg/algorithm-practice-reverse-word-walkthrough-a1d8d4535abd)
